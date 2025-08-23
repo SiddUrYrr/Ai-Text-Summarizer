@@ -41,7 +41,7 @@ Use pycham for this project it helps you
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/sidd_yrr/summarizer.git
+   git clone https://github.com/Siddharth185927/Ai-Text-Summarizer.git
    cd ai-text-summarizer
    ```
 
