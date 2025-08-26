@@ -5,7 +5,7 @@ This app takes any large chunk of text and summarizes it into a concise, easy-to
 Designed with **fast loading**, **clean UI**, and the ability to run entirely **offline** after setup.
 
 ---
-## Dev suggetion 
+•Dev suggetion 
 Use pycham for this project it helps you
 ---
 
